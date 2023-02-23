@@ -1,0 +1,9 @@
+{
+  "name": "test_package_v01",
+  "type": "package",
+  "blockId": "5UFF5AWPBfKuDWxFVzsXk",
+  "source": {
+    "https": "https://github.com/aneesh-jose/test_package_v01",
+    "ssh": "git@github.com:aneesh-jose/test_package_v01.git"
+  }
+}
